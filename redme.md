@@ -13,4 +13,4 @@ Eine ETL Pipeline, die eine CSV Datei ausliest und in MongoDB übertragt.
 - Pause bis 11.00
 - Danach git und github bis 12.30 - 13.00
 - Nachmittag: Arbeitsprofile eintragen
-- test
+- test mongo pipeline
